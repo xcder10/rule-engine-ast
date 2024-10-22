@@ -16,3 +16,9 @@ This project is a 3-tier rule engine that uses an Abstract Syntax Tree (AST) to 
                           --> run the application
                           -->  run tests
 {all codes provided} 
+
+# How the project works?
+1. main.py: demonstrates the rule engine's functionaliblity by creating and evaluating.
+2. tests/test_engine.py: validates the correctness of the code using test cases.
+3. data/rules.json: (samples) stores predefined rules for reference.
+4. README.md: documentation with setup, usage, and tests instructions
